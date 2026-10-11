@@ -1,0 +1,24 @@
+# FraudShield AI — Python 3.12 (64-bit)
+# Install inside the project's virtual environment:
+# python -m pip install -r requirements.txt
+
+# Data processing
+numpy>=1.26,<3
+pandas>=2.2,<3
+pyarrow>=15,<25
+
+# Machine learning
+scikit-learn>=1.5,<2
+lightgbm>=4.5,<5
+xgboost>=2.1,<4
+shap>=0.46,<1
+joblib>=1.4,<2
+
+# Visualization and dashboard
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+plotly>=5.24,<7
+streamlit>=1.40,<2
+
+# Memory and system monitoring
+psutil>=6,<8

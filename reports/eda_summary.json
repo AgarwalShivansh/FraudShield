@@ -1,0 +1,9 @@
+{
+  "rows":590540.0,
+  "columns":434.0,
+  "fraud_count":20663.0,
+  "legitimate_count":569877.0,
+  "fraud_rate_percent":3.4990009144,
+  "columns_with_missing_values":414.0,
+  "identity_match_rate_percent":24.4239170928
+}

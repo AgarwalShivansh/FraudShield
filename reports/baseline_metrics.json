@@ -1,0 +1,21 @@
+{
+  "train_rows": 472432,
+  "validation_rows": 118108,
+  "feature_count": 432,
+  "best_iteration": 786,
+  "average_precision": 0.5354703613571434,
+  "roc_auc": 0.9058426218782942,
+  "precision_at_050": 0.29472248452418426,
+  "recall_at_050": 0.6911909448818898,
+  "f1_at_050": 0.4132401618242001,
+  "confusion_matrix_at_050": [
+    [
+      107322,
+      6722
+    ],
+    [
+      1255,
+      2809
+    ]
+  ]
+}
